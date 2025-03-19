@@ -5,7 +5,6 @@
 
 This mod is based on the modified version of **Item Info by 無名** ([Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2972499450)), which itself is derived from **Item Info by Ryuu** ([Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=836583293)).
 
-**GitHub Repository:** [Item Info Updated](https://github.com/ALTI14/Item-info-updated)
 
 ## Updates
 - Fixed various crash issues.
